@@ -1,0 +1,2 @@
+rootProject.name = "VideoStreaming_ass"
+include ':app'
